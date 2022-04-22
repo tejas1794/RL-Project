@@ -1,4 +1,4 @@
-# CP8319 Problem Set - Tejas Vyas
+# CP8319 Final Project - Deep RL Atari Pong training - Tejas Vyas
 
 Model weights aren't included, please email or message me for them and I can send separately if needed.
 
